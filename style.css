@@ -107,7 +107,7 @@ li a:hover {
 .navbar hletter{
   float: left;
   display: block;
-  color: ;
+  color: #2E2E2E;
   text-align: center;
   padding: 13px 25px;
   text-decoration: none;
@@ -273,4 +273,27 @@ li a:hover {
 
 p.thick {
   font-weight: bold;
+}
+
+.footer {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 18%;
+  background-color: #79786F;
+  color: white;
+
+}
+
+.footer bletter{
+  float: right;
+  display: block;
+  color: #2E2E2E;
+  text-align: center;
+  padding: 40px 25px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:Calibri;
+  letter-spacing:1px;
 }
