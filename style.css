@@ -120,6 +120,7 @@ li a:hover {
   width:90%;
   right:5%;
   position: fixed;
+  border-radius: 7px;
 }
 
 .navbar a {
@@ -127,8 +128,9 @@ li a:hover {
   font-size: 20px;
   color: white;
   text-align: center;
-  padding: 20px 25px;
+  padding: 21px 25px;
   text-decoration: none;
+  font-family: Arial, sans-serif;
 }
 
 .dropdown {
@@ -141,14 +143,14 @@ li a:hover {
   border: none;
   outline: none;
   color: white;
-  padding: 20px 25px;
+  padding: 21px 25px;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: black;
 }
 
 .dropdown-content {
