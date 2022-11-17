@@ -34,7 +34,7 @@ a {
 }
 
 body {
-    background-color: #F2EFDE;
+    background-color: #F5F2E5;
     opacity: 1
 }
 
@@ -157,7 +157,7 @@ li a:hover {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: black;
+  background-color: #918F85;
 }
 
 .dropdown-content {
@@ -171,7 +171,7 @@ li a:hover {
 .dropdown-content a {
   float: none;
   color: black;
-  padding: 12px 16px;
+  padding: 12px 14.5px;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -181,7 +181,7 @@ li a:hover {
 .dropdown-content bi {
   float: none;
   color: black;
-  padding: 12px 16px;
+  padding: 12px 14.5px;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -193,7 +193,7 @@ li a:hover {
 .dropdown-content c {
   float: none;
   color: black;
-  padding: 12px 16px;
+  padding: 12px 14.5px;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -293,7 +293,16 @@ p.thick {
   text-align: center;
   padding: 40px 25px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 18px;
   font-family:Calibri;
   letter-spacing:1px;
+}
+
+.checker{
+  background-color: white;
+}
+
+
+.logo gimp xcf v011{
+
 }
