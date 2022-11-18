@@ -299,9 +299,13 @@ p.thick {
 }
 
 .checker{
-  background-color: white;
+  background-color: #868B8E;
+  padding: 40px 25px;
 }
 
+.checker cletter{
+  color: white;
+}
 
 .logo gimp xcf v011{
 
