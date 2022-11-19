@@ -34,7 +34,7 @@ a {
 }
 
 body {
-    background-color: #F5F2E5;
+    background-color: #EEEDE7;
     opacity: 1
 }
 
@@ -118,7 +118,7 @@ li a:hover {
 
 .navbar {
   overflow: hidden;
-  background-color: #C4C3B8;
+  background-color: #B9B7BD;
   width:90%;
   right:5%;
   position: fixed;
@@ -136,7 +136,7 @@ li a:hover {
   text-decoration: none;
   font-family: Arial, sans-serif;
   font-weight: bold;
-  background-color: #C4C3B8;
+  background-color: #B9B7BD;
 }
 
 .dropdown {
