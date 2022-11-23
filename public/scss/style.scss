@@ -1,0 +1,15 @@
+@use 'custom';
+
+// Import components
+
+@use 'components/buttons';
+@use 'components/typography';
+
+// Import sections
+
+@use 'sections/navbar';
+@use 'sections/intro-sections';
+@use 'sections/cards';
+@use 'sections/footer';
+@use 'sections/background';
+@use 'sections/modal';

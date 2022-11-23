@@ -1,0 +1,9 @@
+@use '../custom' as *;
+.topb{
+    background: $white;
+    position: sticky;
+    box-shadow: $box-shadow;
+    li {
+        padding: 0 11.2px;
+    }
+}
